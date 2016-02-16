@@ -1,0 +1,183 @@
+<div class="lessons details-list">
+                    <div class="inner-layout">
+                        <!-- lesson-item -->
+
+                        <div class="lesson-item">
+                        <a href="http://www.jikexueyuan.com/course/777.html" jktag="0001|0.1|89004|seriesid:116|acid:777">
+                            <div class="tag">评语</div>
+
+                            <div class="imgwrap"><img src="http://a1.jikexueyuan.com/home/201504/23/3cbc/55384b99578af.jpg"/></div>
+                            <dl>
+                                <dt class="title">基本的正则表达式</dt>
+                                <dd>
+                                    <ul class="lesson-attr">
+                                        <li><i class="icon icon-clock-dark"></i>
+																						46分钟
+										</li>
+                                        <li class="float-right"><img src="http://a1.jikexueyuan.com/home/201411/03/9301/54578de87b2f1.png" alt="" width="16" height="16" /></li>
+                                    </ul>
+
+                                                                        <p>本课程讲解在定向爬虫编写过程中涉及到的基本的正则表达式。实现从一段有规律的文本中根据规律提取出感兴趣...</p>
+
+                                </dd>
+                            </dl>
+                            <a>
+                        </div>
+
+                        <div class="lesson-item">
+                        <a href="http://www.jikexueyuan.com/course/821.html" jktag="0001|0.1|89004|seriesid:116|acid:821">
+                            <div class="tag">评语</div>
+
+                            <div class="imgwrap"><img src="http://a1.jikexueyuan.com/home/201504/30/237c/55418ca919dde.jpg"/></div>
+                            <dl>
+                                <dt class="title">Python 单线程爬虫</dt>
+                                <dd>
+                                    <ul class="lesson-attr">
+                                        <li><i class="icon icon-clock-dark"></i>
+																						40分钟
+										</li>
+                                        <li class="float-right"><img src="http://a1.jikexueyuan.com/home/201411/03/9301/54578de87b2f1.png" alt="" width="16" height="16" /></li>
+                                    </ul>
+
+                                                                        <p>本课程讲解单线程爬虫的制作。通过 Requests 获取网页源代码，并使用正则表达式获取感兴趣的内容。</p>
+
+                                </dd>
+                            </dl>
+                            <a>
+                        </div>
+
+                        <div class="lesson-item">
+                        <a href="http://www.jikexueyuan.com/course/902.html" jktag="0001|0.1|89004|seriesid:116|acid:902">
+                            <div class="tag">评语</div>
+
+                            <div class="imgwrap"><img src="http://a1.jikexueyuan.com/home/201505/15/bed7/55554ca32addf.jpg"/></div>
+                            <dl>
+                                <dt class="title">XPath 与多线程爬虫</dt>
+                                <dd>
+                                    <ul class="lesson-attr">
+                                        <li><i class="icon icon-clock-dark"></i>
+																						35分钟
+										</li>
+                                        <li class="float-right"><img src="http://a1.jikexueyuan.com/home/201411/03/9301/54578de87b2f1.png" alt="" width="16" height="16" /></li>
+                                    </ul>
+
+                                                                        <p>本课程讲解超越正则表达式的高级匹配方式，从而简化爬虫的匹配过程。然后简要介绍多线程爬虫。</p>
+
+                                </dd>
+                            </dl>
+                            <a>
+                        </div>
+
+                        <div class="lesson-item">
+                        <a href="http://www.jikexueyuan.com/course/995.html" jktag="0001|0.1|89004|seriesid:116|acid:995">
+                            <div class="tag">评语</div>
+
+                            <div class="imgwrap"><img src="http://a1.jikexueyuan.com/home/201505/29/ac0e/5567cb35a6939.jpg"/></div>
+                            <dl>
+                                <dt class="title">定向爬虫：简单的模拟登录</dt>
+                                <dd>
+                                    <ul class="lesson-attr">
+                                        <li><i class="icon icon-clock-dark"></i>
+																						39分钟
+										</li>
+                                        <li class="float-right"><img src="http://a1.jikexueyuan.com/home/201411/03/9301/54578de87b2f1.png" alt="" width="16" height="16" /></li>
+                                    </ul>
+
+                                                                        <p>本课程讲解爬虫实现简单的模拟登录，从而将可爬取网站的数量成倍提高，大大丰富我们可以获取的数据。</p>
+
+                                </dd>
+                            </dl>
+                            <a>
+                        </div>
+
+                        <div class="lesson-item">
+                        <a href="http://www.jikexueyuan.com/course/1287.html" jktag="0001|0.1|89004|seriesid:116|acid:1287">
+                            <div class="tag">评语</div>
+
+                            <div class="imgwrap"><img src="http://a1.jikexueyuan.com/home/201506/08/d4bc/5574f3f42607c.jpg"/></div>
+                            <dl>
+                                <dt class="title">定向爬虫：Scrapy 初探</dt>
+                                <dd>
+                                    <ul class="lesson-attr">
+                                        <li><i class="icon icon-clock-dark"></i>
+																						31分钟
+										</li>
+                                        <li class="float-right"><img src="http://a1.jikexueyuan.com/home/201411/03/9301/54578de87b2f1.png" alt="" width="16" height="16" /></li>
+                                    </ul>
+
+                                                                        <p>本课程讲解开源爬虫框架 Scrapy, 本框架使用多线程与事件驱动使得爬取效率提高一个数量级。</p>
+
+                                </dd>
+                            </dl>
+                            <a>
+                        </div>
+
+                        <div class="lesson-item">
+                        <a href="http://www.jikexueyuan.com/course/1439.html" jktag="0001|0.1|89004|seriesid:116|acid:1439">
+                            <div class="tag">评语</div>
+
+                            <div class="imgwrap"><img src="http://a1.jikexueyuan.com/home/201506/24/10b1/558a0e9f06fde.jpg"/></div>
+                            <dl>
+                                <dt class="title">定向爬虫：MongoDB 与 Scrapy</dt>
+                                <dd>
+                                    <ul class="lesson-attr">
+                                        <li><i class="icon icon-clock-dark"></i>
+																						30分钟
+										</li>
+                                        <li class="float-right"><img src="http://a1.jikexueyuan.com/home/201411/03/9301/54578de87b2f1.png" alt="" width="16" height="16" /></li>
+                                    </ul>
+
+                                                                        <p>本课程介绍非关系型数据库 MongoDB 在爬虫中的应用。基于 Key-Value 的非关系数据库与Python 的搭配可以大...</p>
+
+                                </dd>
+                            </dl>
+                            <a>
+                        </div>
+
+                        <div class="lesson-item">
+                        <a href="http://www.jikexueyuan.com/course/1556.html" jktag="0001|0.1|89004|seriesid:116|acid:1556">
+                            <div class="tag">评语</div>
+
+                            <div class="imgwrap"><img src="http://a1.jikexueyuan.com/home/201507/09/3cd7/559de0d975409.jpg"/></div>
+                            <dl>
+                                <dt class="title">定向爬虫：Scrapy 与 Redis 入门</dt>
+                                <dd>
+                                    <ul class="lesson-attr">
+                                        <li><i class="icon icon-clock-dark"></i>
+																						22分钟
+										</li>
+                                        <li class="float-right"><img src="http://a1.jikexueyuan.com/home/201411/03/9301/54578de87b2f1.png" alt="" width="16" height="16" /></li>
+                                    </ul>
+
+                                                                        <p>本课程讲解 Redis 与 Scrapy 的组合应用，从而为后面讲解分布式爬虫做准备。</p>
+
+                                </dd>
+                            </dl>
+                            <a>
+                        </div>
+
+                        <div class="lesson-item">
+                        <a href="http://www.jikexueyuan.com/course/1713.html" jktag="0001|0.1|89004|seriesid:116|acid:1713">
+                            <div class="tag">评语</div>
+
+                            <div class="imgwrap"><img src="http://a1.jikexueyuan.com/home/201507/30/a8e6/55b98279283b0.jpg"/></div>
+                            <dl>
+                                <dt class="title">定向爬虫：动态加载网页的爬取</dt>
+                                <dd>
+                                    <ul class="lesson-attr">
+                                        <li><i class="icon icon-clock-dark"></i>
+																						35分钟
+										</li>
+                                        <li class="float-right"><img src="http://a1.jikexueyuan.com/home/201411/03/9301/54578de87b2f1.png" alt="" width="16" height="16" /></li>
+                                    </ul>
+
+                                                                        <p>当前大部分网页使用了 AJAX  异步加载技术，很多内容都是通过 JavaScript 动态加载的，于是在网页源代码里面...</p>
+
+                                </dd>
+                            </dl>
+                            <a>
+                        </div>
+
+                        <!--/ lesson-item -->
+                    </div>
+                </div>
