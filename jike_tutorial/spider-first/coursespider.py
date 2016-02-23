@@ -10,12 +10,20 @@ class spider:
 
 
     def __init__(self):
-
+        self.url = url
         return
 
+    def getContent(self):
 
+        response = requests.get(self.url)
+
+        return response.content
+
+    def 
 
 
 if __name__=='__main__':
 
+    jikespider = spider()
 
+    print jikespider.getContent()
