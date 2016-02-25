@@ -4,14 +4,16 @@
 import re
 import requests
 
-url = 'http://www.jikexueyuan.com/course/?pageNum='
+url = 'https://pt.sjtu.edu.cn/torrents.php?inclbookmarked=0&incldead=0&spstate=0&cat=429&page=0'
 
 class spider:
 
 
     def __init__(self):
+
         self.url = url
-        return
+
+        print "start crawling ..."
 
     def getContent(self):
 
@@ -19,11 +21,12 @@ class spider:
 
         return response.content
 
-    def 
+    # def getEachLesson(self,):
+
 
 
 if __name__=='__main__':
 
-    jikespider = spider()
+    putaospider = spider()
 
-    print jikespider.getContent()
+    print putaospider.getContent()
