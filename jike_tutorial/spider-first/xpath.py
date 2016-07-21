@@ -1,15 +1,15 @@
 #!/usr/bin/env python
-#-*-coding:utf8-*-
+# -*-coding:utf8-*-
 
 from lxml import etree
 from multiprocessing.dummy import Pool
 import requests
 import time
 
-pool = Pool(4)
-results = pool.map()
-pool.close()
-pool.join()
+# pool = Pool(4)
+# results = pool.map()
+# pool.close()
+# pool.join()
 #在chrome中审查元素直接右键copy xpath可以直接得到xpath
 
 html = '''
@@ -93,14 +93,15 @@ html = '''
 </html>
 '''
 
-response = requests.get('http://www.hunantv.com')
+response = requests.get('http://jiage.autohome.com.cn/price/carlist/p-18179')
 
-selector = etree.HTML(html)
-
-content = selector.xpath('//option/text()')
+selector = etree.HTML(response.content)
 
 
-for each in content:
-    print each
+price_list = selector.xpath('//ul[@class="price-list"]/li[@class="price-item"]')
 
+#
+# for each in content:
+#     print each
+print '共'.decode('utf8')
 # print response.text
